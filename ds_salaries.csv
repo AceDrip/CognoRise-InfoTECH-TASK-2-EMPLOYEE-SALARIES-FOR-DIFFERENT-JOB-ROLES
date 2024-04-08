@@ -1,0 +1,608 @@
+Column1,work_year,experience_level,employment_type,job_title, salary ,salary_currency, salary_in_usd ,employee_residence,remote_ratio,company_location,company_size
+0,2020,MI,FT,Data Scientist," 70,000 ",EUR," $79,833 ",DE,0,DE,L
+1,2020,SE,FT,Machine Learning Scientist," 260,000 ",USD," $260,000 ",JP,0,JP,S
+2,2020,SE,FT,Big Data Engineer," 85,000 ",GBP," $109,024 ",GB,50,GB,M
+3,2020,MI,FT,Product Data Analyst," 20,000 ",USD," $20,000 ",HN,0,HN,S
+4,2020,SE,FT,Machine Learning Engineer," 150,000 ",USD," $150,000 ",US,50,US,L
+5,2020,EN,FT,Data Analyst," 72,000 ",USD," $72,000 ",US,100,US,L
+6,2020,SE,FT,Lead Data Scientist," 190,000 ",USD," $190,000 ",US,100,US,S
+7,2020,MI,FT,Data Scientist," 11,000,000 ",HUF," $35,735 ",HU,50,HU,L
+8,2020,MI,FT,Business Data Analyst," 135,000 ",USD," $135,000 ",US,100,US,L
+9,2020,SE,FT,Lead Data Engineer," 125,000 ",USD," $125,000 ",NZ,50,NZ,S
+10,2020,EN,FT,Data Scientist," 45,000 ",EUR," $51,321 ",FR,0,FR,S
+11,2020,MI,FT,Data Scientist," 3,000,000 ",INR," $40,481 ",IN,0,IN,L
+12,2020,EN,FT,Data Scientist," 35,000 ",EUR," $39,916 ",FR,0,FR,M
+13,2020,MI,FT,Lead Data Analyst," 87,000 ",USD," $87,000 ",US,100,US,L
+14,2020,MI,FT,Data Analyst," 85,000 ",USD," $85,000 ",US,100,US,L
+15,2020,MI,FT,Data Analyst," 8,000 ",USD," $8,000 ",PK,50,PK,L
+16,2020,EN,FT,Data Engineer," 4,450,000 ",JPY," $41,689 ",JP,100,JP,S
+17,2020,SE,FT,Big Data Engineer," 100,000 ",EUR," $114,047 ",PL,100,GB,S
+18,2020,EN,FT,Data Science Consultant," 423,000 ",INR," $5,707 ",IN,50,IN,M
+19,2020,MI,FT,Lead Data Engineer," 56,000 ",USD," $56,000 ",PT,100,US,M
+20,2020,MI,FT,Machine Learning Engineer," 299,000 ",CNY," $43,331 ",CN,0,CN,M
+21,2020,MI,FT,Product Data Analyst," 450,000 ",INR," $6,072 ",IN,100,IN,L
+22,2020,SE,FT,Data Engineer," 42,000 ",EUR," $47,899 ",GR,50,GR,L
+23,2020,MI,FT,BI Data Analyst," 98,000 ",USD," $98,000 ",US,0,US,M
+24,2020,MI,FT,Lead Data Scientist," 115,000 ",USD," $115,000 ",AE,0,AE,L
+25,2020,EX,FT,Director of Data Science," 325,000 ",USD," $325,000 ",US,100,US,L
+26,2020,EN,FT,Research Scientist," 42,000 ",USD," $42,000 ",NL,50,NL,L
+27,2020,SE,FT,Data Engineer," 720,000 ",MXN," $33,511 ",MX,0,MX,S
+28,2020,EN,CT,Business Data Analyst," 100,000 ",USD," $100,000 ",US,100,US,L
+29,2020,SE,FT,Machine Learning Manager," 157,000 ",CAD," $117,104 ",CA,50,CA,L
+30,2020,MI,FT,Data Engineering Manager," 51,999 ",EUR," $59,303 ",DE,100,DE,S
+31,2020,EN,FT,Big Data Engineer," 70,000 ",USD," $70,000 ",US,100,US,L
+32,2020,SE,FT,Data Scientist," 60,000 ",EUR," $68,428 ",GR,100,US,L
+33,2020,MI,FT,Research Scientist," 450,000 ",USD," $450,000 ",US,0,US,M
+34,2020,MI,FT,Data Analyst," 41,000 ",EUR," $46,759 ",FR,50,FR,L
+35,2020,MI,FT,Data Engineer," 65,000 ",EUR," $74,130 ",AT,50,AT,L
+36,2020,MI,FT,Data Science Consultant," 103,000 ",USD," $103,000 ",US,100,US,L
+37,2020,EN,FT,Machine Learning Engineer," 250,000 ",USD," $250,000 ",US,50,US,L
+38,2020,EN,FT,Data Analyst," 10,000 ",USD," $10,000 ",NG,100,NG,S
+39,2020,EN,FT,Machine Learning Engineer," 138,000 ",USD," $138,000 ",US,100,US,S
+40,2020,MI,FT,Data Scientist," 45,760 ",USD," $45,760 ",PH,100,US,S
+41,2020,EX,FT,Data Engineering Manager," 70,000 ",EUR," $79,833 ",ES,50,ES,L
+42,2020,MI,FT,Machine Learning Infrastructure Engineer," 44,000 ",EUR," $50,180 ",PT,0,PT,M
+43,2020,MI,FT,Data Engineer," 106,000 ",USD," $106,000 ",US,100,US,L
+44,2020,MI,FT,Data Engineer," 88,000 ",GBP," $112,872 ",GB,50,GB,L
+45,2020,EN,PT,ML Engineer," 14,000 ",EUR," $15,966 ",DE,100,DE,S
+46,2020,MI,FT,Data Scientist," 60,000 ",GBP," $76,958 ",GB,100,GB,S
+47,2020,SE,FT,Data Engineer," 188,000 ",USD," $188,000 ",US,100,US,L
+48,2020,MI,FT,Data Scientist," 105,000 ",USD," $105,000 ",US,100,US,L
+49,2020,MI,FT,Data Engineer," 61,500 ",EUR," $70,139 ",FR,50,FR,L
+50,2020,EN,FT,Data Analyst," 450,000 ",INR," $6,072 ",IN,0,IN,S
+51,2020,EN,FT,Data Analyst," 91,000 ",USD," $91,000 ",US,100,US,L
+52,2020,EN,FT,AI Scientist," 300,000 ",DKK," $45,896 ",DK,50,DK,S
+53,2020,EN,FT,Data Engineer," 48,000 ",EUR," $54,742 ",PK,100,DE,L
+54,2020,SE,FL,Computer Vision Engineer," 60,000 ",USD," $60,000 ",RU,100,US,S
+55,2020,SE,FT,Principal Data Scientist," 130,000 ",EUR," $148,261 ",DE,100,DE,M
+56,2020,MI,FT,Data Scientist," 34,000 ",EUR," $38,776 ",ES,100,ES,M
+57,2020,MI,FT,Data Scientist," 118,000 ",USD," $118,000 ",US,100,US,M
+58,2020,SE,FT,Data Scientist," 120,000 ",USD," $120,000 ",US,50,US,L
+59,2020,MI,FT,Data Scientist," 138,350 ",USD," $138,350 ",US,100,US,M
+60,2020,MI,FT,Data Engineer," 110,000 ",USD," $110,000 ",US,100,US,L
+61,2020,MI,FT,Data Engineer," 130,800 ",USD," $130,800 ",ES,100,US,M
+62,2020,EN,PT,Data Scientist," 19,000 ",EUR," $21,669 ",IT,50,IT,S
+63,2020,SE,FT,Data Scientist," 412,000 ",USD," $412,000 ",US,100,US,L
+64,2020,SE,FT,Machine Learning Engineer," 40,000 ",EUR," $45,618 ",HR,100,HR,S
+65,2020,EN,FT,Data Scientist," 55,000 ",EUR," $62,726 ",DE,50,DE,S
+66,2020,EN,FT,Data Scientist," 43,200 ",EUR," $49,268 ",DE,0,DE,S
+67,2020,SE,FT,Data Science Manager," 190,200 ",USD," $190,200 ",US,100,US,M
+68,2020,EN,FT,Data Scientist," 105,000 ",USD," $105,000 ",US,100,US,S
+69,2020,SE,FT,Data Scientist," 80,000 ",EUR," $91,237 ",AT,0,AT,S
+70,2020,MI,FT,Data Scientist," 55,000 ",EUR," $62,726 ",FR,50,LU,S
+71,2020,MI,FT,Data Scientist," 37,000 ",EUR," $42,197 ",FR,50,FR,S
+72,2021,EN,FT,Research Scientist," 60,000 ",GBP," $82,528 ",GB,50,GB,L
+73,2021,EX,FT,BI Data Analyst," 150,000 ",USD," $150,000 ",IN,100,US,L
+74,2021,EX,FT,Head of Data," 235,000 ",USD," $235,000 ",US,100,US,L
+75,2021,SE,FT,Data Scientist," 45,000 ",EUR," $53,192 ",FR,50,FR,L
+76,2021,MI,FT,BI Data Analyst," 100,000 ",USD," $100,000 ",US,100,US,M
+77,2021,MI,PT,3D Computer Vision Researcher," 400,000 ",INR," $5,409 ",IN,50,IN,M
+78,2021,MI,CT,ML Engineer," 270,000 ",USD," $270,000 ",US,100,US,L
+79,2021,EN,FT,Data Analyst," 80,000 ",USD," $80,000 ",US,100,US,M
+80,2021,SE,FT,Data Analytics Engineer," 67,000 ",EUR," $79,197 ",DE,100,DE,L
+81,2021,MI,FT,Data Engineer," 140,000 ",USD," $140,000 ",US,100,US,L
+82,2021,MI,FT,Applied Data Scientist," 68,000 ",CAD," $54,238 ",GB,50,CA,L
+83,2021,MI,FT,Machine Learning Engineer," 40,000 ",EUR," $47,282 ",ES,100,ES,S
+84,2021,EX,FT,Director of Data Science," 130,000 ",EUR," $153,667 ",IT,100,PL,L
+85,2021,MI,FT,Data Engineer," 110,000 ",PLN," $28,476 ",PL,100,PL,L
+86,2021,EN,FT,Data Analyst," 50,000 ",EUR," $59,102 ",FR,50,FR,M
+87,2021,MI,FT,Data Analytics Engineer," 110,000 ",USD," $110,000 ",US,100,US,L
+88,2021,SE,FT,Lead Data Analyst," 170,000 ",USD," $170,000 ",US,100,US,L
+89,2021,SE,FT,Data Analyst," 80,000 ",USD," $80,000 ",BG,100,US,S
+90,2021,SE,FT,Marketing Data Analyst," 75,000 ",EUR," $88,654 ",GR,100,DK,L
+91,2021,EN,FT,Data Science Consultant," 65,000 ",EUR," $76,833 ",DE,100,DE,S
+92,2021,MI,FT,Lead Data Analyst," 1,450,000 ",INR," $19,609 ",IN,100,IN,L
+93,2021,SE,FT,Lead Data Engineer," 276,000 ",USD," $276,000 ",US,0,US,L
+94,2021,EN,FT,Data Scientist," 2,200,000 ",INR," $29,751 ",IN,50,IN,L
+95,2021,MI,FT,Cloud Data Engineer," 120,000 ",SGD," $89,294 ",SG,50,SG,L
+96,2021,EN,PT,AI Scientist," 12,000 ",USD," $12,000 ",BR,100,US,S
+97,2021,MI,FT,Financial Data Analyst," 450,000 ",USD," $450,000 ",US,100,US,L
+98,2021,EN,FT,Computer Vision Software Engineer," 70,000 ",USD," $70,000 ",US,100,US,M
+99,2021,MI,FT,Computer Vision Software Engineer," 81,000 ",EUR," $95,746 ",DE,100,US,S
+100,2021,MI,FT,Data Analyst," 75,000 ",USD," $75,000 ",US,0,US,L
+101,2021,SE,FT,Data Engineer," 150,000 ",USD," $150,000 ",US,100,US,L
+102,2021,MI,FT,BI Data Analyst," 11,000,000 ",HUF," $36,259 ",HU,50,US,L
+103,2021,MI,FT,Data Analyst," 62,000 ",USD," $62,000 ",US,0,US,L
+104,2021,MI,FT,Data Scientist," 73,000 ",USD," $73,000 ",US,0,US,L
+105,2021,MI,FT,Data Analyst," 37,456 ",GBP," $51,519 ",GB,50,GB,L
+106,2021,MI,FT,Research Scientist," 235,000 ",CAD," $187,442 ",CA,100,CA,L
+107,2021,SE,FT,Data Engineer," 115,000 ",USD," $115,000 ",US,100,US,S
+108,2021,SE,FT,Data Engineer," 150,000 ",USD," $150,000 ",US,100,US,M
+109,2021,EN,FT,Data Engineer," 2,250,000 ",INR," $30,428 ",IN,100,IN,L
+110,2021,SE,FT,Machine Learning Engineer," 80,000 ",EUR," $94,564 ",DE,50,DE,L
+111,2021,SE,FT,Director of Data Engineering," 82,500 ",GBP," $113,476 ",GB,100,GB,M
+112,2021,SE,FT,Lead Data Engineer," 75,000 ",GBP," $103,160 ",GB,100,GB,S
+113,2021,EN,PT,AI Scientist," 12,000 ",USD," $12,000 ",PK,100,US,M
+114,2021,MI,FT,Data Engineer," 38,400 ",EUR," $45,391 ",NL,100,NL,L
+115,2021,EN,FT,Machine Learning Scientist," 225,000 ",USD," $225,000 ",US,100,US,L
+116,2021,MI,FT,Data Scientist," 50,000 ",USD," $50,000 ",NG,100,NG,L
+117,2021,MI,FT,Data Science Engineer," 34,000 ",EUR," $40,189 ",GR,100,GR,M
+118,2021,EN,FT,Data Analyst," 90,000 ",USD," $90,000 ",US,100,US,S
+119,2021,MI,FT,Data Engineer," 200,000 ",USD," $200,000 ",US,100,US,L
+120,2021,MI,FT,Big Data Engineer," 60,000 ",USD," $60,000 ",ES,50,RO,M
+121,2021,SE,FT,Principal Data Engineer," 200,000 ",USD," $200,000 ",US,100,US,M
+122,2021,EN,FT,Data Analyst," 50,000 ",USD," $50,000 ",US,100,US,M
+123,2021,EN,FT,Applied Data Scientist," 80,000 ",GBP," $110,037 ",GB,0,GB,L
+124,2021,EN,PT,Data Analyst," 8,760 ",EUR," $10,354 ",ES,50,ES,M
+125,2021,MI,FT,Principal Data Scientist," 151,000 ",USD," $151,000 ",US,100,US,L
+126,2021,SE,FT,Machine Learning Scientist," 120,000 ",USD," $120,000 ",US,50,US,S
+127,2021,MI,FT,Data Scientist," 700,000 ",INR," $9,466 ",IN,0,IN,S
+128,2021,EN,FT,Machine Learning Engineer," 20,000 ",USD," $20,000 ",IN,100,IN,S
+129,2021,SE,FT,Lead Data Scientist," 3,000,000 ",INR," $40,570 ",IN,50,IN,L
+130,2021,EN,FT,Machine Learning Developer," 100,000 ",USD," $100,000 ",IQ,50,IQ,S
+131,2021,EN,FT,Data Scientist," 42,000 ",EUR," $49,646 ",FR,50,FR,M
+132,2021,MI,FT,Applied Machine Learning Scientist," 38,400 ",USD," $38,400 ",VN,100,US,M
+133,2021,SE,FT,Computer Vision Engineer," 24,000 ",USD," $24,000 ",BR,100,BR,M
+134,2021,EN,FT,Data Scientist," 100,000 ",USD," $100,000 ",US,0,US,S
+135,2021,MI,FT,Data Analyst," 90,000 ",USD," $90,000 ",US,100,US,M
+136,2021,MI,FT,ML Engineer," 7,000,000 ",JPY," $63,711 ",JP,50,JP,S
+137,2021,MI,FT,ML Engineer," 8,500,000 ",JPY," $77,364 ",JP,50,JP,S
+138,2021,SE,FT,Principal Data Scientist," 220,000 ",USD," $220,000 ",US,0,US,L
+139,2021,EN,FT,Data Scientist," 80,000 ",USD," $80,000 ",US,100,US,M
+140,2021,MI,FT,Data Analyst," 135,000 ",USD," $135,000 ",US,100,US,L
+141,2021,SE,FT,Data Science Manager," 240,000 ",USD," $240,000 ",US,0,US,L
+142,2021,SE,FT,Data Engineering Manager," 150,000 ",USD," $150,000 ",US,0,US,L
+143,2021,MI,FT,Data Scientist," 82,500 ",USD," $82,500 ",US,100,US,S
+144,2021,MI,FT,Data Engineer," 100,000 ",USD," $100,000 ",US,100,US,L
+145,2021,SE,FT,Machine Learning Engineer," 70,000 ",EUR," $82,744 ",BE,50,BE,M
+146,2021,MI,FT,Research Scientist," 53,000 ",EUR," $62,649 ",FR,50,FR,M
+147,2021,MI,FT,Data Engineer," 90,000 ",USD," $90,000 ",US,100,US,L
+148,2021,SE,FT,Data Engineering Manager," 153,000 ",USD," $153,000 ",US,100,US,L
+149,2021,SE,FT,Cloud Data Engineer," 160,000 ",USD," $160,000 ",BR,100,US,S
+150,2021,SE,FT,Director of Data Science," 168,000 ",USD," $168,000 ",JP,0,JP,S
+151,2021,MI,FT,Data Scientist," 150,000 ",USD," $150,000 ",US,100,US,M
+152,2021,MI,FT,Data Scientist," 95,000 ",CAD," $75,774 ",CA,100,CA,L
+153,2021,EN,FT,Data Scientist," 13,400 ",USD," $13,400 ",UA,100,UA,L
+154,2021,SE,FT,Data Science Manager," 144,000 ",USD," $144,000 ",US,100,US,L
+155,2021,SE,FT,Data Science Engineer," 159,500 ",CAD," $127,221 ",CA,50,CA,L
+156,2021,MI,FT,Data Scientist," 160,000 ",SGD," $119,059 ",SG,100,IL,M
+157,2021,MI,FT,Applied Machine Learning Scientist," 423,000 ",USD," $423,000 ",US,50,US,L
+158,2021,SE,FT,Data Analytics Manager," 120,000 ",USD," $120,000 ",US,100,US,M
+159,2021,EN,FT,Machine Learning Engineer," 125,000 ",USD," $125,000 ",US,100,US,S
+160,2021,EX,FT,Head of Data," 230,000 ",USD," $230,000 ",RU,50,RU,L
+161,2021,EX,FT,Head of Data Science," 85,000 ",USD," $85,000 ",RU,0,RU,M
+162,2021,MI,FT,Data Engineer," 24,000 ",EUR," $28,369 ",MT,50,MT,L
+163,2021,EN,FT,Data Science Consultant," 54,000 ",EUR," $63,831 ",DE,50,DE,L
+164,2021,EX,FT,Director of Data Science," 110,000 ",EUR," $130,026 ",DE,50,DE,M
+165,2021,SE,FT,Data Specialist," 165,000 ",USD," $165,000 ",US,100,US,L
+166,2021,EN,FT,Data Engineer," 80,000 ",USD," $80,000 ",US,100,US,L
+167,2021,EX,FT,Director of Data Science," 250,000 ",USD," $250,000 ",US,0,US,L
+168,2021,EN,FT,BI Data Analyst," 55,000 ",USD," $55,000 ",US,50,US,S
+169,2021,MI,FT,Data Architect," 150,000 ",USD," $150,000 ",US,100,US,L
+170,2021,MI,FT,Data Architect," 170,000 ",USD," $170,000 ",US,100,US,L
+171,2021,MI,FT,Data Engineer," 60,000 ",GBP," $82,528 ",GB,100,GB,L
+172,2021,EN,FT,Data Analyst," 60,000 ",USD," $60,000 ",US,100,US,S
+173,2021,SE,FT,Principal Data Scientist," 235,000 ",USD," $235,000 ",US,100,US,L
+174,2021,SE,FT,Research Scientist," 51,400 ",EUR," $60,757 ",PT,50,PT,L
+175,2021,SE,FT,Data Engineering Manager," 174,000 ",USD," $174,000 ",US,100,US,L
+176,2021,MI,FT,Data Scientist," 58,000 ",MXN," $2,859 ",MX,0,MX,S
+177,2021,MI,FT,Data Scientist," 30,400,000 ",CLP," $40,038 ",CL,100,CL,L
+178,2021,EN,FT,Machine Learning Engineer," 81,000 ",USD," $81,000 ",US,50,US,S
+179,2021,MI,FT,Data Scientist," 420,000 ",INR," $5,679 ",IN,100,US,S
+180,2021,MI,FT,Big Data Engineer," 1,672,000 ",INR," $22,611 ",IN,0,IN,L
+181,2021,MI,FT,Data Scientist," 76,760 ",EUR," $90,734 ",DE,50,DE,L
+182,2021,MI,FT,Data Engineer," 22,000 ",EUR," $26,005 ",RO,0,US,L
+183,2021,SE,FT,Finance Data Analyst," 45,000 ",GBP," $61,896 ",GB,50,GB,L
+184,2021,MI,FL,Machine Learning Scientist," 12,000 ",USD," $12,000 ",PK,50,PK,M
+185,2021,MI,FT,Data Engineer," 4,000 ",USD," $4,000 ",IR,100,IR,M
+186,2021,SE,FT,Data Analytics Engineer," 50,000 ",USD," $50,000 ",VN,100,GB,M
+187,2021,EX,FT,Data Science Consultant," 59,000 ",EUR," $69,741 ",FR,100,ES,S
+188,2021,SE,FT,Data Engineer," 65,000 ",EUR," $76,833 ",RO,50,GB,S
+189,2021,MI,FT,Machine Learning Engineer," 74,000 ",USD," $74,000 ",JP,50,JP,S
+190,2021,SE,FT,Data Science Manager," 152,000 ",USD," $152,000 ",US,100,FR,L
+191,2021,EN,FT,Machine Learning Engineer," 21,844 ",USD," $21,844 ",CO,50,CO,M
+192,2021,MI,FT,Big Data Engineer," 18,000 ",USD," $18,000 ",MD,0,MD,S
+193,2021,SE,FT,Data Science Manager," 174,000 ",USD," $174,000 ",US,100,US,L
+194,2021,SE,FT,Research Scientist," 120,500 ",CAD," $96,113 ",CA,50,CA,L
+195,2021,MI,FT,Data Scientist," 147,000 ",USD," $147,000 ",US,50,US,L
+196,2021,EN,FT,BI Data Analyst," 9,272 ",USD," $9,272 ",KE,100,KE,S
+197,2021,SE,FT,Machine Learning Engineer," 1,799,997 ",INR," $24,342 ",IN,100,IN,L
+198,2021,SE,FT,Data Science Manager," 4,000,000 ",INR," $54,094 ",IN,50,US,L
+199,2021,EN,FT,Data Science Consultant," 90,000 ",USD," $90,000 ",US,100,US,S
+200,2021,MI,FT,Data Scientist," 52,000 ",EUR," $61,467 ",DE,50,AT,M
+201,2021,SE,FT,Machine Learning Infrastructure Engineer," 195,000 ",USD," $195,000 ",US,100,US,M
+202,2021,MI,FT,Data Scientist," 32,000 ",EUR," $37,825 ",ES,100,ES,L
+203,2021,SE,FT,Research Scientist," 50,000 ",USD," $50,000 ",FR,100,US,S
+204,2021,MI,FT,Data Scientist," 160,000 ",USD," $160,000 ",US,100,US,L
+205,2021,MI,FT,Data Scientist," 69,600 ",BRL," $12,901 ",BR,0,BR,S
+206,2021,SE,FT,Machine Learning Engineer," 200,000 ",USD," $200,000 ",US,100,US,L
+207,2021,SE,FT,Data Engineer," 165,000 ",USD," $165,000 ",US,0,US,M
+208,2021,MI,FL,Data Engineer," 20,000 ",USD," $20,000 ",IT,0,US,L
+209,2021,SE,FT,Data Analytics Manager," 120,000 ",USD," $120,000 ",US,0,US,L
+210,2021,MI,FT,Machine Learning Engineer," 21,000 ",EUR," $24,823 ",SI,50,SI,L
+211,2021,MI,FT,Research Scientist," 48,000 ",EUR," $56,738 ",FR,50,FR,S
+212,2021,MI,FT,Data Engineer," 48,000 ",GBP," $66,022 ",HK,50,GB,S
+213,2021,EN,FT,Big Data Engineer," 435,000 ",INR," $5,882 ",IN,0,CH,L
+214,2021,EN,FT,Machine Learning Engineer," 21,000 ",EUR," $24,823 ",DE,50,DE,M
+215,2021,SE,FT,Principal Data Engineer," 185,000 ",USD," $185,000 ",US,100,US,L
+216,2021,EN,PT,Computer Vision Engineer," 180,000 ",DKK," $28,609 ",DK,50,DK,S
+217,2021,MI,FT,Data Scientist," 76,760 ",EUR," $90,734 ",DE,50,DE,L
+218,2021,MI,FT,Machine Learning Engineer," 75,000 ",EUR," $88,654 ",BE,100,BE,M
+219,2021,SE,FT,Data Analytics Manager," 140,000 ",USD," $140,000 ",US,100,US,L
+220,2021,MI,FT,Machine Learning Engineer," 180,000 ",PLN," $46,597 ",PL,100,PL,L
+221,2021,MI,FT,Data Scientist," 85,000 ",GBP," $116,914 ",GB,50,GB,L
+222,2021,MI,FT,Data Scientist," 2,500,000 ",INR," $33,808 ",IN,0,IN,M
+223,2021,MI,FT,Data Scientist," 40,900 ",GBP," $56,256 ",GB,50,GB,L
+224,2021,SE,FT,Machine Learning Scientist," 225,000 ",USD," $225,000 ",US,100,CA,L
+225,2021,EX,CT,Principal Data Scientist," 416,000 ",USD," $416,000 ",US,100,US,S
+226,2021,SE,FT,Data Scientist," 110,000 ",CAD," $87,738 ",CA,100,CA,S
+227,2021,MI,FT,Data Scientist," 75,000 ",EUR," $88,654 ",DE,50,DE,L
+228,2021,SE,FT,Data Scientist," 135,000 ",USD," $135,000 ",US,0,US,L
+229,2021,SE,FT,Data Analyst," 90,000 ",CAD," $71,786 ",CA,100,CA,M
+230,2021,EN,FT,Big Data Engineer," 1,200,000 ",INR," $16,228 ",IN,100,IN,L
+231,2021,SE,FT,ML Engineer," 256,000 ",USD," $256,000 ",US,100,US,S
+232,2021,SE,FT,Director of Data Engineering," 200,000 ",USD," $200,000 ",US,100,US,L
+233,2021,SE,FT,Data Analyst," 200,000 ",USD," $200,000 ",US,100,US,L
+234,2021,MI,FT,Data Architect," 180,000 ",USD," $180,000 ",US,100,US,L
+235,2021,MI,FT,Head of Data Science," 110,000 ",USD," $110,000 ",US,0,US,S
+236,2021,MI,FT,Research Scientist," 80,000 ",CAD," $63,810 ",CA,100,CA,M
+237,2021,MI,FT,Data Scientist," 39,600 ",EUR," $46,809 ",ES,100,ES,M
+238,2021,EN,FT,Data Scientist," 4,000 ",USD," $4,000 ",VN,0,VN,M
+239,2021,EN,FT,Data Engineer," 1,600,000 ",INR," $21,637 ",IN,50,IN,M
+240,2021,SE,FT,Data Scientist," 130,000 ",CAD," $103,691 ",CA,100,CA,L
+241,2021,MI,FT,Data Analyst," 80,000 ",USD," $80,000 ",US,100,US,L
+242,2021,MI,FT,Data Engineer," 110,000 ",USD," $110,000 ",US,100,US,L
+243,2021,SE,FT,Data Scientist," 165,000 ",USD," $165,000 ",US,100,US,L
+244,2021,EN,FT,AI Scientist," 1,335,000 ",INR," $18,053 ",IN,100,AS,S
+245,2021,MI,FT,Data Engineer," 52,500 ",GBP," $72,212 ",GB,50,GB,L
+246,2021,EN,FT,Data Scientist," 31,000 ",EUR," $36,643 ",FR,50,FR,L
+247,2021,MI,FT,Data Engineer," 108,000 ",TRY," $12,103 ",TR,0,TR,M
+248,2021,SE,FT,Data Engineer," 70,000 ",GBP," $96,282 ",GB,50,GB,L
+249,2021,SE,FT,Principal Data Analyst," 170,000 ",USD," $170,000 ",US,100,US,M
+250,2021,MI,FT,Data Scientist," 115,000 ",USD," $115,000 ",US,50,US,L
+251,2021,EN,FT,Data Scientist," 90,000 ",USD," $90,000 ",US,100,US,S
+252,2021,EX,FT,Principal Data Engineer," 600,000 ",USD," $600,000 ",US,100,US,L
+253,2021,EN,FT,Data Scientist," 2,100,000 ",INR," $28,399 ",IN,100,IN,M
+254,2021,MI,FT,Data Analyst," 93,000 ",USD," $93,000 ",US,100,US,L
+255,2021,SE,FT,Big Data Architect," 125,000 ",CAD," $99,703 ",CA,50,CA,M
+256,2021,MI,FT,Data Engineer," 200,000 ",USD," $200,000 ",US,100,US,L
+257,2021,SE,FT,Principal Data Scientist," 147,000 ",EUR," $173,762 ",DE,100,DE,M
+258,2021,SE,FT,Machine Learning Engineer," 185,000 ",USD," $185,000 ",US,50,US,L
+259,2021,EX,FT,Director of Data Science," 120,000 ",EUR," $141,846 ",DE,0,DE,L
+260,2021,MI,FT,Data Scientist," 130,000 ",USD," $130,000 ",US,50,US,L
+261,2021,SE,FT,Data Analyst," 54,000 ",EUR," $63,831 ",DE,50,DE,L
+262,2021,MI,FT,Data Scientist," 1,250,000 ",INR," $16,904 ",IN,100,IN,S
+263,2021,SE,FT,Machine Learning Engineer," 4,900,000 ",INR," $66,265 ",IN,0,IN,L
+264,2021,MI,FT,Data Scientist," 21,600 ",EUR," $25,532 ",RS,100,DE,S
+265,2021,SE,FT,Lead Data Engineer," 160,000 ",USD," $160,000 ",PR,50,US,S
+266,2021,MI,FT,Data Engineer," 93,150 ",USD," $93,150 ",US,0,US,M
+267,2021,MI,FT,Data Engineer," 111,775 ",USD," $111,775 ",US,0,US,M
+268,2021,MI,FT,Data Engineer," 250,000 ",TRY," $28,016 ",TR,100,TR,M
+269,2021,EN,FT,Data Engineer," 55,000 ",EUR," $65,013 ",DE,50,DE,M
+270,2021,EN,FT,Data Engineer," 72,500 ",USD," $72,500 ",US,100,US,L
+271,2021,SE,FT,Computer Vision Engineer," 102,000 ",BRL," $18,907 ",BR,0,BR,M
+272,2021,EN,FT,Data Science Consultant," 65,000 ",EUR," $76,833 ",DE,0,DE,L
+273,2021,EN,FT,Machine Learning Engineer," 85,000 ",USD," $85,000 ",NL,100,DE,S
+274,2021,SE,FT,Data Scientist," 65,720 ",EUR," $77,684 ",FR,50,FR,M
+275,2021,EN,FT,Data Scientist," 100,000 ",USD," $100,000 ",US,100,US,M
+276,2021,EN,FT,Data Scientist," 58,000 ",USD," $58,000 ",US,50,US,L
+277,2021,SE,FT,AI Scientist," 55,000 ",USD," $55,000 ",ES,100,ES,L
+278,2021,SE,FT,Data Scientist," 180,000 ",TRY," $20,171 ",TR,50,TR,L
+279,2021,EN,FT,Business Data Analyst," 50,000 ",EUR," $59,102 ",LU,100,LU,L
+280,2021,MI,FT,Data Engineer," 112,000 ",USD," $112,000 ",US,100,US,L
+281,2021,EN,FT,Research Scientist," 100,000 ",USD," $100,000 ",JE,0,CN,L
+282,2021,MI,PT,Data Engineer," 59,000 ",EUR," $69,741 ",NL,100,NL,L
+283,2021,SE,CT,Staff Data Scientist," 105,000 ",USD," $105,000 ",US,100,US,M
+284,2021,MI,FT,Research Scientist," 69,999 ",USD," $69,999 ",CZ,50,CZ,L
+285,2021,SE,FT,Data Science Manager," 7,000,000 ",INR," $94,665 ",IN,50,IN,L
+286,2021,SE,FT,Head of Data," 87,000 ",EUR," $102,839 ",SI,100,SI,L
+287,2021,MI,FT,Data Scientist," 109,000 ",USD," $109,000 ",US,50,US,L
+288,2021,MI,FT,Machine Learning Engineer," 43,200 ",EUR," $51,064 ",IT,50,IT,L
+289,2022,SE,FT,Data Engineer," 135,000 ",USD," $135,000 ",US,100,US,M
+290,2022,SE,FT,Data Analyst," 155,000 ",USD," $155,000 ",US,100,US,M
+291,2022,SE,FT,Data Analyst," 120,600 ",USD," $120,600 ",US,100,US,M
+292,2022,MI,FT,Data Scientist," 130,000 ",USD," $130,000 ",US,0,US,M
+293,2022,MI,FT,Data Scientist," 90,000 ",USD," $90,000 ",US,0,US,M
+294,2022,MI,FT,Data Engineer," 170,000 ",USD," $170,000 ",US,100,US,M
+295,2022,MI,FT,Data Engineer," 150,000 ",USD," $150,000 ",US,100,US,M
+296,2022,SE,FT,Data Analyst," 102,100 ",USD," $102,100 ",US,100,US,M
+297,2022,SE,FT,Data Analyst," 84,900 ",USD," $84,900 ",US,100,US,M
+298,2022,SE,FT,Data Scientist," 136,620 ",USD," $136,620 ",US,100,US,M
+299,2022,SE,FT,Data Scientist," 99,360 ",USD," $99,360 ",US,100,US,M
+300,2022,SE,FT,Data Scientist," 90,000 ",GBP," $117,789 ",GB,0,GB,M
+301,2022,SE,FT,Data Scientist," 80,000 ",GBP," $104,702 ",GB,0,GB,M
+302,2022,SE,FT,Data Scientist," 146,000 ",USD," $146,000 ",US,100,US,M
+303,2022,SE,FT,Data Scientist," 123,000 ",USD," $123,000 ",US,100,US,M
+304,2022,EN,FT,Data Engineer," 40,000 ",GBP," $52,351 ",GB,100,GB,M
+305,2022,SE,FT,Data Analyst," 99,000 ",USD," $99,000 ",US,0,US,M
+306,2022,SE,FT,Data Analyst," 116,000 ",USD," $116,000 ",US,0,US,M
+307,2022,MI,FT,Data Analyst," 106,260 ",USD," $106,260 ",US,0,US,M
+308,2022,MI,FT,Data Analyst," 126,500 ",USD," $126,500 ",US,0,US,M
+309,2022,EX,FT,Data Engineer," 242,000 ",USD," $242,000 ",US,100,US,M
+310,2022,EX,FT,Data Engineer," 200,000 ",USD," $200,000 ",US,100,US,M
+311,2022,MI,FT,Data Scientist," 50,000 ",GBP," $65,438 ",GB,0,GB,M
+312,2022,MI,FT,Data Scientist," 30,000 ",GBP," $39,263 ",GB,0,GB,M
+313,2022,MI,FT,Data Engineer," 60,000 ",GBP," $78,526 ",GB,0,GB,M
+314,2022,MI,FT,Data Engineer," 40,000 ",GBP," $52,351 ",GB,0,GB,M
+315,2022,SE,FT,Data Scientist," 165,220 ",USD," $165,220 ",US,100,US,M
+316,2022,EN,FT,Data Engineer," 35,000 ",GBP," $45,807 ",GB,100,GB,M
+317,2022,SE,FT,Data Scientist," 120,160 ",USD," $120,160 ",US,100,US,M
+318,2022,SE,FT,Data Analyst," 90,320 ",USD," $90,320 ",US,100,US,M
+319,2022,SE,FT,Data Engineer," 181,940 ",USD," $181,940 ",US,0,US,M
+320,2022,SE,FT,Data Engineer," 132,320 ",USD," $132,320 ",US,0,US,M
+321,2022,SE,FT,Data Engineer," 220,110 ",USD," $220,110 ",US,0,US,M
+322,2022,SE,FT,Data Engineer," 160,080 ",USD," $160,080 ",US,0,US,M
+323,2022,SE,FT,Data Scientist," 180,000 ",USD," $180,000 ",US,0,US,L
+324,2022,SE,FT,Data Scientist," 120,000 ",USD," $120,000 ",US,0,US,L
+325,2022,SE,FT,Data Analyst," 124,190 ",USD," $124,190 ",US,100,US,M
+326,2022,EX,FT,Data Analyst," 130,000 ",USD," $130,000 ",US,100,US,M
+327,2022,EX,FT,Data Analyst," 110,000 ",USD," $110,000 ",US,100,US,M
+328,2022,SE,FT,Data Analyst," 170,000 ",USD," $170,000 ",US,100,US,M
+329,2022,MI,FT,Data Analyst," 115,500 ",USD," $115,500 ",US,100,US,M
+330,2022,SE,FT,Data Analyst," 112,900 ",USD," $112,900 ",US,100,US,M
+331,2022,SE,FT,Data Analyst," 90,320 ",USD," $90,320 ",US,100,US,M
+332,2022,SE,FT,Data Analyst," 112,900 ",USD," $112,900 ",US,100,US,M
+333,2022,SE,FT,Data Analyst," 90,320 ",USD," $90,320 ",US,100,US,M
+334,2022,SE,FT,Data Engineer," 165,400 ",USD," $165,400 ",US,100,US,M
+335,2022,SE,FT,Data Engineer," 132,320 ",USD," $132,320 ",US,100,US,M
+336,2022,MI,FT,Data Analyst," 167,000 ",USD," $167,000 ",US,100,US,M
+337,2022,SE,FT,Data Engineer," 243,900 ",USD," $243,900 ",US,100,US,M
+338,2022,SE,FT,Data Analyst," 136,600 ",USD," $136,600 ",US,100,US,M
+339,2022,SE,FT,Data Analyst," 109,280 ",USD," $109,280 ",US,100,US,M
+340,2022,SE,FT,Data Engineer," 128,875 ",USD," $128,875 ",US,100,US,M
+341,2022,SE,FT,Data Engineer," 93,700 ",USD," $93,700 ",US,100,US,M
+342,2022,EX,FT,Head of Data Science," 224,000 ",USD," $224,000 ",US,100,US,M
+343,2022,EX,FT,Head of Data Science," 167,875 ",USD," $167,875 ",US,100,US,M
+344,2022,EX,FT,Analytics Engineer," 175,000 ",USD," $175,000 ",US,100,US,M
+345,2022,SE,FT,Data Engineer," 156,600 ",USD," $156,600 ",US,100,US,M
+346,2022,SE,FT,Data Engineer," 108,800 ",USD," $108,800 ",US,0,US,M
+347,2022,SE,FT,Data Scientist," 95,550 ",USD," $95,550 ",US,0,US,M
+348,2022,SE,FT,Data Engineer," 113,000 ",USD," $113,000 ",US,0,US,L
+349,2022,SE,FT,Data Analyst," 135,000 ",USD," $135,000 ",US,100,US,M
+350,2022,SE,FT,Data Science Manager," 161,342 ",USD," $161,342 ",US,100,US,M
+351,2022,SE,FT,Data Science Manager," 137,141 ",USD," $137,141 ",US,100,US,M
+352,2022,SE,FT,Data Scientist," 167,000 ",USD," $167,000 ",US,100,US,M
+353,2022,SE,FT,Data Scientist," 123,000 ",USD," $123,000 ",US,100,US,M
+354,2022,SE,FT,Data Engineer," 60,000 ",GBP," $78,526 ",GB,0,GB,M
+355,2022,SE,FT,Data Engineer," 50,000 ",GBP," $65,438 ",GB,0,GB,M
+356,2022,SE,FT,Data Scientist," 150,000 ",USD," $150,000 ",US,0,US,M
+357,2022,SE,FT,Data Scientist," 211,500 ",USD," $211,500 ",US,100,US,M
+358,2022,SE,FT,Data Architect," 192,400 ",USD," $192,400 ",CA,100,CA,M
+359,2022,SE,FT,Data Architect," 90,700 ",USD," $90,700 ",CA,100,CA,M
+360,2022,SE,FT,Data Analyst," 130,000 ",USD," $130,000 ",CA,100,CA,M
+361,2022,SE,FT,Data Analyst," 61,300 ",USD," $61,300 ",CA,100,CA,M
+362,2022,SE,FT,Data Analyst," 130,000 ",USD," $130,000 ",CA,100,CA,M
+363,2022,SE,FT,Data Analyst," 61,300 ",USD," $61,300 ",CA,100,CA,M
+364,2022,SE,FT,Data Engineer," 160,000 ",USD," $160,000 ",US,0,US,L
+365,2022,SE,FT,Data Scientist," 138,600 ",USD," $138,600 ",US,100,US,M
+366,2022,SE,FT,Data Engineer," 136,000 ",USD," $136,000 ",US,0,US,M
+367,2022,MI,FT,Data Analyst," 58,000 ",USD," $58,000 ",US,0,US,S
+368,2022,EX,FT,Analytics Engineer," 135,000 ",USD," $135,000 ",US,100,US,M
+369,2022,SE,FT,Data Scientist," 170,000 ",USD," $170,000 ",US,100,US,M
+370,2022,SE,FT,Data Scientist," 123,000 ",USD," $123,000 ",US,100,US,M
+371,2022,SE,FT,Machine Learning Engineer," 189,650 ",USD," $189,650 ",US,0,US,M
+372,2022,SE,FT,Machine Learning Engineer," 164,996 ",USD," $164,996 ",US,0,US,M
+373,2022,MI,FT,ETL Developer," 50,000 ",EUR," $54,957 ",GR,0,GR,M
+374,2022,MI,FT,ETL Developer," 50,000 ",EUR," $54,957 ",GR,0,GR,M
+375,2022,EX,FT,Lead Data Engineer," 150,000 ",CAD," $118,187 ",CA,100,CA,S
+376,2022,SE,FT,Data Analyst," 132,000 ",USD," $132,000 ",US,0,US,M
+377,2022,SE,FT,Data Engineer," 165,400 ",USD," $165,400 ",US,100,US,M
+378,2022,SE,FT,Data Architect," 208,775 ",USD," $208,775 ",US,100,US,M
+379,2022,SE,FT,Data Architect," 147,800 ",USD," $147,800 ",US,100,US,M
+380,2022,SE,FT,Data Engineer," 136,994 ",USD," $136,994 ",US,100,US,M
+381,2022,SE,FT,Data Engineer," 101,570 ",USD," $101,570 ",US,100,US,M
+382,2022,SE,FT,Data Analyst," 128,875 ",USD," $128,875 ",US,100,US,M
+383,2022,SE,FT,Data Analyst," 93,700 ",USD," $93,700 ",US,100,US,M
+384,2022,EX,FT,Head of Machine Learning," 6,000,000 ",INR," $79,039 ",IN,50,IN,L
+385,2022,SE,FT,Data Engineer," 132,320 ",USD," $132,320 ",US,100,US,M
+386,2022,EN,FT,Machine Learning Engineer," 28,500 ",GBP," $37,300 ",GB,100,GB,L
+387,2022,SE,FT,Data Analyst," 164,000 ",USD," $164,000 ",US,0,US,M
+388,2022,SE,FT,Data Engineer," 155,000 ",USD," $155,000 ",US,100,US,M
+389,2022,MI,FT,Machine Learning Engineer," 95,000 ",GBP," $124,333 ",GB,0,GB,M
+390,2022,MI,FT,Machine Learning Engineer," 75,000 ",GBP," $98,158 ",GB,0,GB,M
+391,2022,MI,FT,AI Scientist," 120,000 ",USD," $120,000 ",US,0,US,M
+392,2022,SE,FT,Data Analyst," 112,900 ",USD," $112,900 ",US,100,US,M
+393,2022,SE,FT,Data Analyst," 90,320 ",USD," $90,320 ",US,100,US,M
+394,2022,SE,FT,Data Analytics Manager," 145,000 ",USD," $145,000 ",US,100,US,M
+395,2022,SE,FT,Data Analytics Manager," 105,400 ",USD," $105,400 ",US,100,US,M
+396,2022,MI,FT,Machine Learning Engineer," 80,000 ",EUR," $87,932 ",FR,100,DE,M
+397,2022,MI,FT,Data Engineer," 90,000 ",GBP," $117,789 ",GB,0,GB,M
+398,2022,SE,FT,Data Scientist," 215,300 ",USD," $215,300 ",US,100,US,L
+399,2022,SE,FT,Data Scientist," 158,200 ",USD," $158,200 ",US,100,US,L
+400,2022,SE,FT,Data Engineer," 209,100 ",USD," $209,100 ",US,100,US,L
+401,2022,SE,FT,Data Engineer," 154,600 ",USD," $154,600 ",US,100,US,L
+402,2022,SE,FT,Data Analyst," 115,934 ",USD," $115,934 ",US,0,US,M
+403,2022,SE,FT,Data Analyst," 81,666 ",USD," $81,666 ",US,0,US,M
+404,2022,SE,FT,Data Engineer," 175,000 ",USD," $175,000 ",US,100,US,M
+405,2022,MI,FT,Data Engineer," 75,000 ",GBP," $98,158 ",GB,0,GB,M
+406,2022,MI,FT,Data Analyst," 58,000 ",USD," $58,000 ",US,0,US,S
+407,2022,SE,FT,Data Engineer," 183,600 ",USD," $183,600 ",US,100,US,L
+408,2022,MI,FT,Data Analyst," 40,000 ",GBP," $52,351 ",GB,100,GB,M
+409,2022,SE,FT,Data Scientist," 180,000 ",USD," $180,000 ",US,100,US,M
+410,2022,MI,FT,Data Scientist," 55,000 ",GBP," $71,982 ",GB,0,GB,M
+411,2022,MI,FT,Data Scientist," 35,000 ",GBP," $45,807 ",GB,0,GB,M
+412,2022,MI,FT,Data Engineer," 60,000 ",EUR," $65,949 ",GR,100,GR,M
+413,2022,MI,FT,Data Engineer," 45,000 ",EUR," $49,461 ",GR,100,GR,M
+414,2022,MI,FT,Data Engineer," 60,000 ",GBP," $78,526 ",GB,100,GB,M
+415,2022,MI,FT,Data Engineer," 45,000 ",GBP," $58,894 ",GB,100,GB,M
+416,2022,SE,FT,Data Scientist," 260,000 ",USD," $260,000 ",US,100,US,M
+417,2022,SE,FT,Data Science Engineer," 60,000 ",USD," $60,000 ",AR,100,MX,L
+418,2022,MI,FT,Data Engineer," 63,900 ",USD," $63,900 ",US,0,US,M
+419,2022,MI,FT,Machine Learning Scientist," 160,000 ",USD," $160,000 ",US,100,US,L
+420,2022,MI,FT,Machine Learning Scientist," 112,300 ",USD," $112,300 ",US,100,US,L
+421,2022,MI,FT,Data Science Manager," 241,000 ",USD," $241,000 ",US,100,US,M
+422,2022,MI,FT,Data Science Manager," 159,000 ",USD," $159,000 ",US,100,US,M
+423,2022,SE,FT,Data Scientist," 180,000 ",USD," $180,000 ",US,0,US,M
+424,2022,SE,FT,Data Scientist," 80,000 ",USD," $80,000 ",US,0,US,M
+425,2022,MI,FT,Data Engineer," 82,900 ",USD," $82,900 ",US,0,US,M
+426,2022,SE,FT,Data Engineer," 100,800 ",USD," $100,800 ",US,100,US,L
+427,2022,MI,FT,Data Engineer," 45,000 ",EUR," $49,461 ",ES,100,ES,M
+428,2022,SE,FT,Data Scientist," 140,400 ",USD," $140,400 ",US,0,US,L
+429,2022,MI,FT,Data Analyst," 30,000 ",GBP," $39,263 ",GB,100,GB,M
+430,2022,MI,FT,Data Analyst," 40,000 ",EUR," $43,966 ",ES,100,ES,M
+431,2022,MI,FT,Data Analyst," 30,000 ",EUR," $32,974 ",ES,100,ES,M
+432,2022,MI,FT,Data Engineer," 80,000 ",EUR," $87,932 ",ES,100,ES,M
+433,2022,MI,FT,Data Engineer," 70,000 ",EUR," $76,940 ",ES,100,ES,M
+434,2022,MI,FT,Data Engineer," 80,000 ",GBP," $104,702 ",GB,100,GB,M
+435,2022,MI,FT,Data Engineer," 70,000 ",GBP," $91,614 ",GB,100,GB,M
+436,2022,MI,FT,Data Engineer," 60,000 ",EUR," $65,949 ",ES,100,ES,M
+437,2022,MI,FT,Data Engineer," 80,000 ",EUR," $87,932 ",GR,100,GR,M
+438,2022,SE,FT,Machine Learning Engineer," 189,650 ",USD," $189,650 ",US,0,US,M
+439,2022,SE,FT,Machine Learning Engineer," 164,996 ",USD," $164,996 ",US,0,US,M
+440,2022,MI,FT,Data Analyst," 40,000 ",EUR," $43,966 ",GR,100,GR,M
+441,2022,MI,FT,Data Analyst," 30,000 ",EUR," $32,974 ",GR,100,GR,M
+442,2022,MI,FT,Data Engineer," 75,000 ",GBP," $98,158 ",GB,100,GB,M
+443,2022,MI,FT,Data Engineer," 60,000 ",GBP," $78,526 ",GB,100,GB,M
+444,2022,SE,FT,Data Scientist," 215,300 ",USD," $215,300 ",US,0,US,L
+445,2022,MI,FT,Data Engineer," 70,000 ",EUR," $76,940 ",GR,100,GR,M
+446,2022,SE,FT,Data Engineer," 209,100 ",USD," $209,100 ",US,100,US,L
+447,2022,SE,FT,Data Engineer," 154,600 ",USD," $154,600 ",US,100,US,L
+448,2022,SE,FT,Data Engineer," 180,000 ",USD," $180,000 ",US,100,US,M
+449,2022,EN,FT,ML Engineer," 20,000 ",EUR," $21,983 ",PT,100,PT,L
+450,2022,SE,FT,Data Engineer," 80,000 ",USD," $80,000 ",US,100,US,M
+451,2022,MI,FT,Machine Learning Developer," 100,000 ",CAD," $78,791 ",CA,100,CA,M
+452,2022,EX,FT,Director of Data Science," 250,000 ",CAD," $196,979 ",CA,50,CA,L
+453,2022,MI,FT,Machine Learning Engineer," 120,000 ",USD," $120,000 ",US,100,US,S
+454,2022,EN,FT,Computer Vision Engineer," 125,000 ",USD," $125,000 ",US,0,US,M
+455,2022,MI,FT,NLP Engineer," 240,000 ",CNY," $37,236 ",US,50,US,L
+456,2022,SE,FT,Data Engineer," 105,000 ",USD," $105,000 ",US,100,US,M
+457,2022,SE,FT,Lead Machine Learning Engineer," 80,000 ",EUR," $87,932 ",DE,0,DE,M
+458,2022,MI,FT,Business Data Analyst," 1,400,000 ",INR," $18,442 ",IN,100,IN,M
+459,2022,MI,FT,Data Scientist," 2,400,000 ",INR," $31,615 ",IN,100,IN,L
+460,2022,MI,FT,Machine Learning Infrastructure Engineer," 53,000 ",EUR," $58,255 ",PT,50,PT,L
+461,2022,EN,FT,Financial Data Analyst," 100,000 ",USD," $100,000 ",US,50,US,L
+462,2022,MI,PT,Data Engineer," 50,000 ",EUR," $54,957 ",DE,50,DE,L
+463,2022,EN,FT,Data Scientist," 1,400,000 ",INR," $18,442 ",IN,100,IN,M
+464,2022,SE,FT,Principal Data Scientist," 148,000 ",EUR," $162,674 ",DE,100,DE,M
+465,2022,EN,FT,Data Engineer," 120,000 ",USD," $120,000 ",US,100,US,M
+466,2022,SE,FT,Research Scientist," 144,000 ",USD," $144,000 ",US,50,US,L
+467,2022,SE,FT,Data Scientist," 104,890 ",USD," $104,890 ",US,100,US,M
+468,2022,SE,FT,Data Engineer," 100,000 ",USD," $100,000 ",US,100,US,M
+469,2022,SE,FT,Data Scientist," 140,000 ",USD," $140,000 ",US,100,US,M
+470,2022,MI,FT,Data Analyst," 135,000 ",USD," $135,000 ",US,100,US,M
+471,2022,MI,FT,Data Analyst," 50,000 ",USD," $50,000 ",US,100,US,M
+472,2022,SE,FT,Data Scientist," 220,000 ",USD," $220,000 ",US,100,US,M
+473,2022,SE,FT,Data Scientist," 140,000 ",USD," $140,000 ",US,100,US,M
+474,2022,MI,FT,Data Scientist," 140,000 ",GBP," $183,228 ",GB,0,GB,M
+475,2022,MI,FT,Data Scientist," 70,000 ",GBP," $91,614 ",GB,0,GB,M
+476,2022,SE,FT,Data Scientist," 185,100 ",USD," $185,100 ",US,100,US,M
+477,2022,SE,FT,Machine Learning Engineer," 220,000 ",USD," $220,000 ",US,100,US,M
+478,2022,MI,FT,Data Scientist," 200,000 ",USD," $200,000 ",US,100,US,M
+479,2022,MI,FT,Data Scientist," 120,000 ",USD," $120,000 ",US,100,US,M
+480,2022,SE,FT,Machine Learning Engineer," 120,000 ",USD," $120,000 ",AE,100,AE,S
+481,2022,SE,FT,Machine Learning Engineer," 65,000 ",USD," $65,000 ",AE,100,AE,S
+482,2022,EX,FT,Data Engineer," 324,000 ",USD," $324,000 ",US,100,US,M
+483,2022,EX,FT,Data Engineer," 216,000 ",USD," $216,000 ",US,100,US,M
+484,2022,SE,FT,Data Engineer," 210,000 ",USD," $210,000 ",US,100,US,M
+485,2022,SE,FT,Machine Learning Engineer," 120,000 ",USD," $120,000 ",US,100,US,M
+486,2022,SE,FT,Data Scientist," 230,000 ",USD," $230,000 ",US,100,US,M
+487,2022,EN,PT,Data Scientist," 100,000 ",USD," $100,000 ",DZ,50,DZ,M
+488,2022,MI,FL,Data Scientist," 100,000 ",USD," $100,000 ",CA,100,US,M
+489,2022,EN,CT,Applied Machine Learning Scientist," 29,000 ",EUR," $31,875 ",TN,100,CZ,M
+490,2022,SE,FT,Head of Data," 200,000 ",USD," $200,000 ",MY,100,US,M
+491,2022,MI,FT,Principal Data Analyst," 75,000 ",USD," $75,000 ",CA,100,CA,S
+492,2022,MI,FT,Data Scientist," 150,000 ",PLN," $35,590 ",PL,100,PL,L
+493,2022,SE,FT,Machine Learning Developer," 100,000 ",CAD," $78,791 ",CA,100,CA,M
+494,2022,SE,FT,Data Scientist," 100,000 ",USD," $100,000 ",BR,100,US,M
+495,2022,MI,FT,Machine Learning Scientist," 153,000 ",USD," $153,000 ",US,50,US,M
+496,2022,EN,FT,Data Engineer," 52,800 ",EUR," $58,035 ",PK,100,DE,M
+497,2022,SE,FT,Data Scientist," 165,000 ",USD," $165,000 ",US,100,US,M
+498,2022,SE,FT,Research Scientist," 85,000 ",EUR," $93,427 ",FR,50,FR,L
+499,2022,EN,FT,Data Scientist," 66,500 ",CAD," $52,396 ",CA,100,CA,L
+500,2022,SE,FT,Machine Learning Engineer," 57,000 ",EUR," $62,651 ",NL,100,NL,L
+501,2022,MI,FT,Head of Data," 30,000 ",EUR," $32,974 ",EE,100,EE,S
+502,2022,EN,FT,Data Scientist," 40,000 ",USD," $40,000 ",JP,100,MY,L
+503,2022,MI,FT,Machine Learning Engineer," 121,000 ",AUD," $87,425 ",AU,100,AU,L
+504,2022,SE,FT,Data Engineer," 115,000 ",USD," $115,000 ",US,100,US,M
+505,2022,EN,FT,Data Scientist," 120,000 ",AUD," $86,703 ",AU,50,AU,M
+506,2022,MI,FT,Applied Machine Learning Scientist," 75,000 ",USD," $75,000 ",BO,100,US,L
+507,2022,MI,FT,Research Scientist," 59,000 ",EUR," $64,849 ",AT,0,AT,L
+508,2022,EN,FT,Research Scientist," 120,000 ",USD," $120,000 ",US,100,US,L
+509,2022,MI,FT,Applied Data Scientist," 157,000 ",USD," $157,000 ",US,100,US,L
+510,2022,EN,FT,Computer Vision Software Engineer," 150,000 ",USD," $150,000 ",AU,100,AU,S
+511,2022,MI,FT,Business Data Analyst," 90,000 ",CAD," $70,912 ",CA,50,CA,L
+512,2022,EN,FT,Data Engineer," 65,000 ",USD," $65,000 ",US,100,US,S
+513,2022,SE,FT,Machine Learning Engineer," 65,000 ",EUR," $71,444 ",IE,100,IE,S
+514,2022,EN,FT,Data Analytics Engineer," 20,000 ",USD," $20,000 ",PK,0,PK,M
+515,2022,MI,FT,Data Scientist," 48,000 ",USD," $48,000 ",RU,100,US,S
+516,2022,SE,FT,Data Science Manager," 152,500 ",USD," $152,500 ",US,100,US,M
+517,2022,MI,FT,Data Engineer," 62,000 ",EUR," $68,147 ",FR,100,FR,M
+518,2022,MI,FT,Data Scientist," 115,000 ",CHF," $122,346 ",CH,0,CH,L
+519,2022,SE,FT,Applied Data Scientist," 380,000 ",USD," $380,000 ",US,100,US,L
+520,2022,MI,FT,Data Scientist," 88,000 ",CAD," $69,336 ",CA,100,CA,M
+521,2022,EN,FT,Computer Vision Engineer," 10,000 ",USD," $10,000 ",PT,100,LU,M
+522,2022,MI,FT,Data Analyst," 20,000 ",USD," $20,000 ",GR,100,GR,S
+523,2022,SE,FT,Data Analytics Lead," 405,000 ",USD," $405,000 ",US,100,US,L
+524,2022,MI,FT,Data Scientist," 135,000 ",USD," $135,000 ",US,100,US,L
+525,2022,SE,FT,Applied Data Scientist," 177,000 ",USD," $177,000 ",US,100,US,L
+526,2022,MI,FT,Data Scientist," 78,000 ",USD," $78,000 ",US,100,US,M
+527,2022,SE,FT,Data Analyst," 135,000 ",USD," $135,000 ",US,100,US,M
+528,2022,SE,FT,Data Analyst," 100,000 ",USD," $100,000 ",US,100,US,M
+529,2022,SE,FT,Data Analyst," 90,320 ",USD," $90,320 ",US,100,US,M
+530,2022,MI,FT,Data Analyst," 85,000 ",USD," $85,000 ",CA,0,CA,M
+531,2022,MI,FT,Data Analyst," 75,000 ",USD," $75,000 ",CA,0,CA,M
+532,2022,SE,FT,Machine Learning Engineer," 214,000 ",USD," $214,000 ",US,100,US,M
+533,2022,SE,FT,Machine Learning Engineer," 192,600 ",USD," $192,600 ",US,100,US,M
+534,2022,SE,FT,Data Architect," 266,400 ",USD," $266,400 ",US,100,US,M
+535,2022,SE,FT,Data Architect," 213,120 ",USD," $213,120 ",US,100,US,M
+536,2022,SE,FT,Data Analyst," 112,900 ",USD," $112,900 ",US,100,US,M
+537,2022,SE,FT,Data Engineer," 155,000 ",USD," $155,000 ",US,100,US,M
+538,2022,MI,FT,Data Scientist," 141,300 ",USD," $141,300 ",US,0,US,M
+539,2022,MI,FT,Data Scientist," 102,100 ",USD," $102,100 ",US,0,US,M
+540,2022,SE,FT,Data Analyst," 115,934 ",USD," $115,934 ",US,100,US,M
+541,2022,SE,FT,Data Analyst," 81,666 ",USD," $81,666 ",US,100,US,M
+542,2022,MI,FT,Data Engineer," 206,699 ",USD," $206,699 ",US,0,US,M
+543,2022,MI,FT,Data Engineer," 99,100 ",USD," $99,100 ",US,0,US,M
+544,2022,SE,FT,Data Engineer," 130,000 ",USD," $130,000 ",US,100,US,M
+545,2022,SE,FT,Data Engineer," 115,000 ",USD," $115,000 ",US,100,US,M
+546,2022,SE,FT,Data Engineer," 110,500 ",USD," $110,500 ",US,100,US,M
+547,2022,SE,FT,Data Engineer," 130,000 ",USD," $130,000 ",US,100,US,M
+548,2022,SE,FT,Data Analyst," 99,050 ",USD," $99,050 ",US,100,US,M
+549,2022,SE,FT,Data Engineer," 160,000 ",USD," $160,000 ",US,100,US,M
+550,2022,SE,FT,Data Scientist," 205,300 ",USD," $205,300 ",US,0,US,L
+551,2022,SE,FT,Data Scientist," 140,400 ",USD," $140,400 ",US,0,US,L
+552,2022,SE,FT,Data Scientist," 176,000 ",USD," $176,000 ",US,100,US,M
+553,2022,SE,FT,Data Scientist," 144,000 ",USD," $144,000 ",US,100,US,M
+554,2022,SE,FT,Data Engineer," 200,100 ",USD," $200,100 ",US,100,US,M
+555,2022,SE,FT,Data Engineer," 160,000 ",USD," $160,000 ",US,100,US,M
+556,2022,SE,FT,Data Engineer," 145,000 ",USD," $145,000 ",US,100,US,M
+557,2022,SE,FT,Data Engineer," 70,500 ",USD," $70,500 ",US,0,US,M
+558,2022,SE,FT,Data Scientist," 205,300 ",USD," $205,300 ",US,0,US,M
+559,2022,SE,FT,Data Scientist," 140,400 ",USD," $140,400 ",US,0,US,M
+560,2022,SE,FT,Analytics Engineer," 205,300 ",USD," $205,300 ",US,0,US,M
+561,2022,SE,FT,Analytics Engineer," 184,700 ",USD," $184,700 ",US,0,US,M
+562,2022,SE,FT,Data Engineer," 175,100 ",USD," $175,100 ",US,100,US,M
+563,2022,SE,FT,Data Engineer," 140,250 ",USD," $140,250 ",US,100,US,M
+564,2022,SE,FT,Data Analyst," 116,150 ",USD," $116,150 ",US,100,US,M
+565,2022,SE,FT,Data Engineer," 54,000 ",USD," $54,000 ",US,0,US,M
+566,2022,SE,FT,Data Analyst," 170,000 ",USD," $170,000 ",US,100,US,M
+567,2022,MI,FT,Data Analyst," 50,000 ",GBP," $65,438 ",GB,0,GB,M
+568,2022,SE,FT,Data Analyst," 80,000 ",USD," $80,000 ",US,100,US,M
+569,2022,SE,FT,Data Scientist," 140,000 ",USD," $140,000 ",US,100,US,M
+570,2022,SE,FT,Data Scientist," 210,000 ",USD," $210,000 ",US,100,US,M
+571,2022,SE,FT,Data Scientist," 140,000 ",USD," $140,000 ",US,100,US,M
+572,2022,SE,FT,Data Analyst," 100,000 ",USD," $100,000 ",US,100,US,M
+573,2022,SE,FT,Data Analyst," 69,000 ",USD," $69,000 ",US,100,US,M
+574,2022,SE,FT,Data Scientist," 210,000 ",USD," $210,000 ",US,100,US,M
+575,2022,SE,FT,Data Scientist," 140,000 ",USD," $140,000 ",US,100,US,M
+576,2022,SE,FT,Data Scientist," 210,000 ",USD," $210,000 ",US,100,US,M
+577,2022,SE,FT,Data Analyst," 150,075 ",USD," $150,075 ",US,100,US,M
+578,2022,SE,FT,Data Engineer," 100,000 ",USD," $100,000 ",US,100,US,M
+579,2022,SE,FT,Data Engineer," 25,000 ",USD," $25,000 ",US,100,US,M
+580,2022,SE,FT,Data Analyst," 126,500 ",USD," $126,500 ",US,100,US,M
+581,2022,SE,FT,Data Analyst," 106,260 ",USD," $106,260 ",US,100,US,M
+582,2022,SE,FT,Data Engineer," 220,110 ",USD," $220,110 ",US,100,US,M
+583,2022,SE,FT,Data Engineer," 160,080 ",USD," $160,080 ",US,100,US,M
+584,2022,SE,FT,Data Analyst," 105,000 ",USD," $105,000 ",US,100,US,M
+585,2022,SE,FT,Data Analyst," 110,925 ",USD," $110,925 ",US,100,US,M
+586,2022,MI,FT,Data Analyst," 35,000 ",GBP," $45,807 ",GB,0,GB,M
+587,2022,SE,FT,Data Scientist," 140,000 ",USD," $140,000 ",US,100,US,M
+588,2022,SE,FT,Data Analyst," 99,000 ",USD," $99,000 ",US,0,US,M
+589,2022,SE,FT,Data Analyst," 60,000 ",USD," $60,000 ",US,100,US,M
+590,2022,SE,FT,Data Architect," 192,564 ",USD," $192,564 ",US,100,US,M
+591,2022,SE,FT,Data Architect," 144,854 ",USD," $144,854 ",US,100,US,M
+592,2022,SE,FT,Data Scientist," 230,000 ",USD," $230,000 ",US,100,US,M
+593,2022,SE,FT,Data Scientist," 150,000 ",USD," $150,000 ",US,100,US,M
+594,2022,SE,FT,Data Analytics Manager," 150,260 ",USD," $150,260 ",US,100,US,M
+595,2022,SE,FT,Data Analytics Manager," 109,280 ",USD," $109,280 ",US,100,US,M
+596,2022,SE,FT,Data Scientist," 210,000 ",USD," $210,000 ",US,100,US,M
+597,2022,SE,FT,Data Analyst," 170,000 ",USD," $170,000 ",US,100,US,M
+598,2022,MI,FT,Data Scientist," 160,000 ",USD," $160,000 ",US,100,US,M
+599,2022,MI,FT,Data Scientist," 130,000 ",USD," $130,000 ",US,100,US,M
+600,2022,EN,FT,Data Analyst," 67,000 ",USD," $67,000 ",CA,0,CA,M
+601,2022,EN,FT,Data Analyst," 52,000 ",USD," $52,000 ",CA,0,CA,M
+602,2022,SE,FT,Data Engineer," 154,000 ",USD," $154,000 ",US,100,US,M
+603,2022,SE,FT,Data Engineer," 126,000 ",USD," $126,000 ",US,100,US,M
+604,2022,SE,FT,Data Analyst," 129,000 ",USD," $129,000 ",US,0,US,M
+605,2022,SE,FT,Data Analyst," 150,000 ",USD," $150,000 ",US,100,US,M
+606,2022,MI,FT,AI Scientist," 200,000 ",USD," $200,000 ",IN,100,US,L
